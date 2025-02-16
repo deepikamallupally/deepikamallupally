@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursing btech in **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 Proficient in **Java and Data Structures & Algorithms**
 
-- 📝 I'm looking for the **Open challenges**
+- 📝 Strong understanding of **Operating Systems, Computer Networks, and DBMS**
+  
+- 📫 Knowledge of **SQL** for efficient database management
+
+- 🔭 Constantly improving my problem-solving skills by practicing coding challenges
 
 - 👨‍💻 All of my projects are available at [deepika-mallupally-5a52b5282](deepika-mallupally-5a52b5282)
 
