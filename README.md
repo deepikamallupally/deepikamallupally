@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🔭 Constantly improving my problem-solving skills by practicing coding challenges
 
-- 👨‍💻 All of my projects are available at [deepika-mallupally-5a52b5282](deepika-mallupally-5a52b5282)
+- 👨‍💻 All of my projects are available at https://github.com/deepikamallupally
 
 - 💬 Ask me about **react.js, node.js, sql**
 
